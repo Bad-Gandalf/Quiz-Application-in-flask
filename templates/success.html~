@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="jumbo">
+      <div align="center" class="alert alert-success">
+        You have successfully completed the Quiz.
+	<br>
+        Your Score is: 15
+      </div>
+    </div>
+
+
+
+{% endblock %}
+
+
